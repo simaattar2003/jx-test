@@ -24,7 +24,7 @@ spec:
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
-      email: ""
+      email: "k8s.rc.de"
       enabled: false
       production: false
   repository: bucketrepo
